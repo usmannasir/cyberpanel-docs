@@ -1,5 +1,5 @@
 site_name: CyberPanel Documentation
-site_url: https://docs.cyberpanel.net
+site_url: https://documentation.cyberpanel.net
 theme:
   name: material
   features:
